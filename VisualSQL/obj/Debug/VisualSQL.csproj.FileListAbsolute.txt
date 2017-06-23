@@ -1,0 +1,8 @@
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\bin\Debug\VisualSQL.exe
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\bin\Debug\VisualSQL.pdb
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\obj\Debug\VisualSQL.csprojResolveAssemblyReference.cache
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\obj\Debug\VisualSQL.Form1.resources
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\obj\Debug\VisualSQL.Properties.Resources.resources
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\obj\Debug\VisualSQL.csproj.GenerateResource.Cache
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\obj\Debug\VisualSQL.exe
+c:\users\lilian\documents\visual studio 2012\Projects\VisualSQL\VisualSQL\obj\Debug\VisualSQL.pdb
